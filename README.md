@@ -12,3 +12,5 @@ Todo: 계속 상기하면 좋은 말들 넣기
 | 2018.06 ~ 2018.08  | [ETRI](https://www.slideshare.net/JUNHEEKIM27/etri-retrospect)  | Hyper Connection Communication Lab Research Intern |
 | 2014.04 ~ 2016.01  | Marine  | Serving a mandatory Military Service |
 | 2013.03 ~ 2019.07  | Hansung University  | Computer Engineering |
+
+<!--   vscode://vscode.github-authentication/did-authenticate?windowid=1&code=af5d9135054adcae7c33&state=5599973b-a7b1-4872-b812-c5a48fab573a -->
