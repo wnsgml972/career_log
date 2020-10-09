@@ -1,8 +1,5 @@
 # Career Log
 
-
-Todo: 계속 상기하면 좋은 말들 넣기
-
 > 특정 환경, 시간에 따라 어떻게 성장해왔는지, 무엇을 공부했는지 꾸준히 회고하기 위해 기록합니다
 
 | Date  | Company | Role |
@@ -14,3 +11,7 @@ Todo: 계속 상기하면 좋은 말들 넣기
 | 2013.03 ~ 2019.07  | Hansung University  | Computer Engineering |
 
 <!--   vscode://vscode.github-authentication/did-authenticate?windowid=1&code=af5d9135054adcae7c33&state=5599973b-a7b1-4872-b812-c5a48fab573a -->
+
+## Web Developer Road Map
+
+* <https://github.com/kamranahmedse/developer-roadmap>
