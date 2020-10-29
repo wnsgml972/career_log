@@ -2,6 +2,12 @@
 
 > 특정 환경, 시간에 따라 어떻게 성장해왔는지, 무엇을 공부했는지 꾸준히 회고하기 위해 기록합니다
 
+## Archive (Always Keep in Mind)
+
+* [Archive](/content/archive.md)
+
+## Log
+
 | Date  | Company | Role |
 |---|---|---|
 | 2020.09 ~ Present  | [Hyperconnect](https://github.com/wnsgml972/hyperconnect_log)  | Backend Software Engineer |
